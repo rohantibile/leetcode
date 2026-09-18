@@ -18,6 +18,7 @@ DSA Patterns Wise question
 - 453 — Minimum Moves to Equal Array Elements
 - 454 - 4Sum II
 - 462 — Minimum Moves to Equal Array Elements II
+- 881 - Boats to Save People
 
 ---
 ### Sliding Window
