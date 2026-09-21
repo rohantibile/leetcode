@@ -97,7 +97,7 @@ Checkboxes in a `.md` file are **not clickable** on the repo page. Open the file
 > - **Spot it when:** Anagrams, “same characters”, counts of chars/numbers, grouping items by a common signature.
 > - **Key idea:** Count with a map or int[26]. For grouping, build a canonical key (sorted string or count tuple).
 
-- [ ] **242** · [Valid Anagram](https://leetcode.com/problems/valid-anagram/) · 🟢 Easy
+- [✔] **242** · [Valid Anagram](https://leetcode.com/problems/valid-anagram/) · 🟢 Easy
 - [ ] ⭐ **383** · [Ransom Note](https://leetcode.com/problems/ransom-note/) · 🟢 Easy
 - [ ] **49** · [Group Anagrams](https://leetcode.com/problems/group-anagrams/) · 🟡 Medium
 
