@@ -99,7 +99,7 @@ Checkboxes in a `.md` file are **not clickable** on the repo page. Open the file
 
 - [✔] **242** · [Valid Anagram](https://leetcode.com/problems/valid-anagram/) · 🟢 Easy
 - [ ] ⭐ **383** · [Ransom Note](https://leetcode.com/problems/ransom-note/) · 🟢 Easy
-- [ ] **49** · [Group Anagrams](https://leetcode.com/problems/group-anagrams/) · 🟡 Medium
+- [✔] **49** · [Group Anagrams](https://leetcode.com/problems/group-anagrams/) · 🟡 Medium
 
 ### Day 3 — HashSet — Existence & Sequences
 > - **Pattern:** HashSet
