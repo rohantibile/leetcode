@@ -106,8 +106,8 @@ Checkboxes in a `.md` file are **not clickable** on the repo page. Open the file
 > - **Spot it when:** Duplicates, intersections, membership checks, “consecutive numbers” in unsorted data.
 > - **Key idea:** Put values in a set. For Longest Consecutive Sequence, only start counting at x when x−1 is NOT in the set → O(n).
 
-- [ ] **349** · [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) · 🟢 Easy
-- [ ] ⭐ **202** · [Happy Number](https://leetcode.com/problems/happy-number/) · 🟢 Easy
+- [✔] **349** · [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) · 🟢 Easy
+- [✔] ⭐ **202** · [Happy Number](https://leetcode.com/problems/happy-number/) · 🟢 Easy
 - [ ] **128** · [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) · 🟡 Medium
 
 ### Day 4 — Prefix Sum
