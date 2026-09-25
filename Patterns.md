@@ -115,7 +115,7 @@ Checkboxes in a `.md` file are **not clickable** on the repo page. Open the file
 > - **Spot it when:** Repeated range-sum queries, “sum on left equals sum on right”, “product/sum of everything except itself”.
 > - **Key idea:** prefix[i] = sum of first i elements → sum(l..r) = prefix[r+1] − prefix[l]. For “except self” combine prefix and suffix products.
 
-- [ ] **1480** · [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) · 🟢 Easy
+- [✔] **1480** · [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) · 🟢 Easy
 - [ ] **724** · [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) · 🟢 Easy
 - [ ] **238** · [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) · 🟡 Medium
 
