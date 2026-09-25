@@ -108,7 +108,7 @@ Checkboxes in a `.md` file are **not clickable** on the repo page. Open the file
 
 - [✔] **349** · [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) · 🟢 Easy
 - [✔] ⭐ **202** · [Happy Number](https://leetcode.com/problems/happy-number/) · 🟢 Easy
-- [ ] **128** · [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) · 🟡 Medium
+- [✔] **128** · [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) · 🟡 Medium
 
 ### Day 4 — Prefix Sum
 > - **Pattern:** Prefix Sum
