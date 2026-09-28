@@ -117,7 +117,7 @@ Checkboxes in a `.md` file are **not clickable** on the repo page. Open the file
 
 - [✔] **1480** · [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) · 🟢 Easy
 - [✔] **724** · [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) · 🟢 Easy
-- [ ] **238** · [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) · 🟡 Medium
+- [✔] **238** · [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) · 🟡 Medium
 
 ### Day 5 — Prefix Sum + HashMap
 > - **Pattern:** Prefix Sum + HashMap
