@@ -166,9 +166,9 @@ Checkboxes in a `.md` file are **not clickable** on the repo page. Open the file
 > - **Spot it when:** Modify an array in place: remove, dedupe, move zeroes, partition, merge sorted arrays.
 > - **Key idea:** fast scans, slow marks the write position. Sort Colors = 3 pointers (Dutch National Flag). Merge Sorted Array: fill from the back.
 
-- [ ] **283** · [Move Zeroes](https://leetcode.com/problems/move-zeroes/) · 🟢 Easy
-- [ ] **26** · [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) · 🟢 Easy
-- [ ] ⭐ **88** · [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) · 🟢 Easy
+- [✔] **283** · [Move Zeroes](https://leetcode.com/problems/move-zeroes/) · 🟢 Easy
+- [✔] **26** · [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) · 🟢 Easy
+- [✔] ⭐ **88** · [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) · 🟢 Easy
 - [ ] **75** · [Sort Colors](https://leetcode.com/problems/sort-colors/) · 🟡 Medium
 
 ### Day 10 — Two Pointers on Sorted Data — Fix One, Scan Two
