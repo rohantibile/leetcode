@@ -157,9 +157,9 @@ Checkboxes in a `.md` file are **not clickable** on the repo page. Open the file
 > - **Spot it when:** Sorted array or palindrome; find a pair with a target; squares of a sorted array.
 > - **Key idea:** left = 0, right = n−1. Compare, then move the pointer that can still improve the answer. O(n) instead of O(n²).
 
-- [ ] **125** · [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) · 🟢 Easy
-- [ ] ⭐ **977** · [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) · 🟢 Easy
-- [ ] **167** · [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) · 🟡 Medium
+- [✔] **125** · [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) · 🟢 Easy
+- [✔] ⭐ **977** · [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) · 🟢 Easy
+- [✔] **167** · [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) · 🟡 Medium
 
 ### Day 9 — Two Pointers — Same Direction (Read/Write)
 > - **Pattern:** Two Pointers (Read/Write)
