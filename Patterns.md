@@ -176,9 +176,9 @@ Checkboxes in a `.md` file are **not clickable** on the repo page. Open the file
 > - **Spot it when:** Triplets / k-sum, “closest to target”, maximize area between two ends.
 > - **Key idea:** Sort → fix i → two pointers on the rest; skip duplicates. Container: always move the shorter wall.
 
-- [ ] **11** · [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) · 🟡 Medium
-- [ ] **15** · [3Sum](https://leetcode.com/problems/3sum/) · 🟡 Medium
-- [ ] ⭐ **16** · [3Sum Closest](https://leetcode.com/problems/3sum-closest/) · 🟡 Medium
+- [✔] **11** · [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) · 🟡 Medium
+- [✔] **15** · [3Sum](https://leetcode.com/problems/3sum/) · 🟡 Medium
+- [✔] ⭐ **16** · [3Sum Closest](https://leetcode.com/problems/3sum-closest/) · 🟡 Medium
 
 ### Day 11 — Kadane / Running State
 > - **Pattern:** Kadane's Algorithm / Running State
