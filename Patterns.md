@@ -169,7 +169,7 @@ Checkboxes in a `.md` file are **not clickable** on the repo page. Open the file
 - [✔] **283** · [Move Zeroes](https://leetcode.com/problems/move-zeroes/) · 🟢 Easy
 - [✔] **26** · [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) · 🟢 Easy
 - [✔] ⭐ **88** · [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) · 🟢 Easy
-- [ ] **75** · [Sort Colors](https://leetcode.com/problems/sort-colors/) · 🟡 Medium
+- [✔] **75** · [Sort Colors](https://leetcode.com/problems/sort-colors/) · 🟡 Medium
 
 ### Day 10 — Two Pointers on Sorted Data — Fix One, Scan Two
 > - **Pattern:** Two Pointers + Sorting
