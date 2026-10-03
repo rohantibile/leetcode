@@ -185,7 +185,7 @@ Checkboxes in a `.md` file are **not clickable** on the repo page. Open the file
 > - **Spot it when:** Max/min subarray sum or product; best profit in a single pass.
 > - **Key idea:** At each index decide: extend the previous subarray or start fresh. Keep “best so far” separately. For products keep both max and min (negatives flip signs).
 
-- [ ] **121** · [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) · 🟢 Easy
+- [✔] **121** · [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) · 🟢 Easy
 - [ ] **53** · [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) · 🟡 Medium
 - [ ] ⭐ **152** · [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) · 🟡 Medium
 
