@@ -124,7 +124,7 @@ Checkboxes in a `.md` file are **not clickable** on the repo page. Open the file
 > - **Spot it when:** Count/find subarrays with sum = k (or divisible by k) when negatives exist (so a sliding window fails).
 > - **Key idea:** If prefix[j] − prefix[i] = k then prefix[i] = prefix[j] − k. Store counts of prefix sums seen so far (seed with {0:1}). 525: treat 0 as −1 and look for sum 0. 974: store prefix % k.
 
-- [ ] **560** · [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) · 🟡 Medium
+- [✔] **560** · [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) · 🟡 Medium
 - [ ] **525** · [Contiguous Array](https://leetcode.com/problems/contiguous-array/) · 🟡 Medium
 - [ ] ⭐ **974** · [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) · 🟡 Medium
 
