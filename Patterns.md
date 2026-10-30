@@ -194,7 +194,7 @@ Checkboxes in a `.md` file are **not clickable** on the repo page. Open the file
 > - **Spot it when:** Subarray/substring of fixed size k; permutations/anagrams inside a bigger string.
 > - **Key idea:** Add the entering element, remove the leaving element, compare counts. Use int[26] frequency arrays. O(n).
 
-- [ ] **643** · [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) · 🟢 Easy
+- [✔] **643** · [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) · 🟢 Easy
 - [ ] **567** · [Permutation in String](https://leetcode.com/problems/permutation-in-string/) · 🟡 Medium
 - [ ] ⭐ **438** · [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) · 🟡 Medium
 
