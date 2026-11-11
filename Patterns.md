@@ -204,7 +204,7 @@ Checkboxes in a `.md` file are **not clickable** on the repo page. Open the file
 > - **Key idea:** Expand right; while the window is invalid shrink from the left; update the max after fixing. Template: for right → add; while (invalid) remove left, left++; best = max(best, right−left+1).
 
 - [ ] **3** · [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) · 🟡 Medium
-- [ ] **424** · [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) · 🟡 Medium
+- [✔] **424** · [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) · 🟡 Medium
 - [ ] ⭐ **1004** · [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) · 🟡 Medium
 
 ### Day 14 — 🔁 Revision & Weekly Test
